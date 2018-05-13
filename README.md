@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Here, I just wanna write a motto I like:
+Forever young, forever have eyes brimmed with warm tears.
